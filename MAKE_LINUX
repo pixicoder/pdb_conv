@@ -1,1 +1,1 @@
-make CFLAGS="-Os" LDFLAGS="" LIBS=""
+make nix CFLAGS="-Os" LDFLAGS="" LIBS=""

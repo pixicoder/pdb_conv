@@ -1,0 +1,1 @@
+make win32 CFLAGS="-Os" LDFLAGS="" LIBS=""

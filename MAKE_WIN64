@@ -1,0 +1,1 @@
+make win64 CFLAGS="-Os" LDFLAGS="" LIBS=""
