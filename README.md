@@ -13,8 +13,6 @@ Options:
   * MOD - PsyTexx1 MOD;
   * SNA - ArmZX;
 
-At the moment, build scripts are only available for Linux and macOS. But this source code can be easily ported to any other system.
-
 Ways to copy PDB files to the PalmOS device:  
 1) try to find pilot-link build for your system;  
 2) use FileZ (or other PalmOS file browser) to copy PDB files from the SD card to the device's internal memory.
