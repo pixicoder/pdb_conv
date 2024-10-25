@@ -1,5 +1,4 @@
-**PalmOS PDB converter**  
-(console app)
+**PalmOS PDB converter**
 
 Usage:
 * source file(s) -> PDB file(s): pdb_conv [-w] [-bSIZE] [-tTYPE] srcfile1 [srcfile2] ...
