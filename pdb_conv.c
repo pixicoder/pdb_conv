@@ -6,8 +6,8 @@
     This file is public domain
 
     Changelog:
-    2024: all versions are combined into a single C file;
-    2002 - 2007: development of different versions for PsyTexx1, ArmZX, PsyTexx2 and other PalmOS apps.
+    v2.0 (25 oct 2024): all versions are combined into a single C file;
+    v1.x (2002 - 2007): development of different versions for PsyTexx1, ArmZX, PsyTexx2 and other PalmOS apps.
 */
 
 #include <stdbool.h>
