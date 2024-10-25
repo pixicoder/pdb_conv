@@ -10,6 +10,8 @@
     v1.x (2002 - 2007): development of different versions for PsyTexx1, ArmZX, PsyTexx2 and other PalmOS apps.
 */
 
+#define APP_VERSION "2.0"
+
 #include <stdbool.h>
 #include <stdint.h>
 #include <stdio.h>
@@ -19,7 +21,7 @@
 
 const char* g_usage = "\
 PalmOS PDB converter by Alexander Zolotov / WarmPlace.ru\n\
-(build " __DATE__ "; " __TIME__ ")\n\
+(v" APP_VERSION "; build " __DATE__ "; " __TIME__ ")\n\
 Usage:\n\
  File->PDB: pdb_conv [-w] [-bSIZE] [-tTYPE] srcfile1 [srcfile2] ...\n\
  PDB->File: pdb_conv -r pdbfile1 [pdbfile2] ...\n\
